@@ -24,7 +24,6 @@ def rain():
         print("No umbrella needed, bring some shades for the sun!")
     else:
         print("Please put in a valid input.")
-        return rain()
 
 temp()
 rain()
